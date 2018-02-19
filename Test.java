@@ -5,6 +5,6 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        new Test().method(); //first comment to be shown on GitHub
+        new Test().method(); //second comment to be shown on GitHub
     }
 }
